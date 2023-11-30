@@ -8,7 +8,7 @@ import VueMacros from 'unplugin-vue-macros/vite'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: './amusement',
+  base: '/amusement/',
   plugins: [
     VueMacros({
       plugins: {
