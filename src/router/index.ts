@@ -12,6 +12,10 @@ const router = createRouter({
     {
       path: '/bg1',
       component: () => import('../views/InteractiveBackground1/PageView.vue')
+    },
+    {
+      path: '/solve-sudoku',
+      component: () => import('../views/SolveSudoku/PageView.vue')
     }
   ]
 })

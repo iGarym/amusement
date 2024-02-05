@@ -8,6 +8,9 @@
         <li>
           <router-link to="/bg1">Interactive Background 1.</router-link>
         </li>
+        <li>
+          <router-link to="/solve-sudoku">Solve Sudoku</router-link>
+        </li>
       </ul>
     </div>
   </main>
